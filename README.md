@@ -1,2 +1,2 @@
 # dice-collection
-An assignment is about using arrays. 
+An assignment about using arrays, association and histograms
