@@ -1,4 +1,4 @@
-package assignment4_000906029;
+package dice-collection;
 
 import java.util.Scanner;
 
