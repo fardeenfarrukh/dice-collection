@@ -41,6 +41,6 @@ public class Die {
      * @return The number of sides and the number that is currently showing
      */
     public String toString() {
-        return "assignment4_000906029.Die with " + numberSides + " sides showing " + currentSide;
+        return "Die with " + numberSides + " sides showing " + currentSide;
     }
 }
