@@ -1,4 +1,4 @@
-package assignment4_000906029;
+package dice-collection;
 
 /**
  * Implements DiceCollection object that holds a set of Die objects in an array.
